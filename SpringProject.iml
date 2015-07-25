@@ -57,5 +57,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-context:4.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.1.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.1.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.mobile:spring-mobile-device:1.1.4.RELEASE" level="project" />
   </component>
 </module>
