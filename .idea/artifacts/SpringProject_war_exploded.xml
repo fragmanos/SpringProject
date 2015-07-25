@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="SpringProject:war exploded">
-    <output-path>$PROJECT_DIR$/target/maven-archetype-webapp</output-path>
+    <output-path>$PROJECT_DIR$/target/maven-archetype-webapp-1.0</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
