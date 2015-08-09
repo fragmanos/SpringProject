@@ -12,6 +12,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
 
     <script src="hello.js"></script>
+    <!--<script src="DataController.js"></script>-->
 </head>
 
 <body role="document">
@@ -50,6 +51,16 @@
                     <p>The content is {{greeting.content}}</p>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="container theme-showcase" role="main">
+        <div class="jumbotron">
+            <form method="POST" enctype="multipart/form-data"
+                  action="/upload">
+                File to upload: <input type="file" name="file"><br /> Name: <input
+                    type="text" name="name"><br /> <br /> <input type="submit" value="Upload"> Press here to upload the file!
+            </form>
         </div>
     </div>
 
